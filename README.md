@@ -1,12 +1,29 @@
-# 📁 Office Tools
+<p align="center">
+  <img src="./public/logo.png" alt="Office Tools Logo" width="180">
+</p>
 
-> **Simple • Fast • Useful**
+<h1 align="center">📁 Office Tools</h1>
 
-**Office Tools** adalah platform **all-in-one productivity tools** yang dirancang untuk membantu pekerjaan perkantoran, mahasiswa, siswa, guru, freelancer, dan pengguna umum.
+<p align="center">
+  <strong>Simple • Fast • Useful</strong>
+</p>
 
-Terinspirasi dari platform seperti **iLovePDF**, Office Tools menyediakan berbagai tools untuk mengelola **PDF, dokumen, gambar, spreadsheet, presentasi, dan file lainnya** dalam satu tempat.
+<p align="center">
+  <strong>Office Tools</strong> adalah platform <strong>all-in-one productivity tools</strong>
+  yang dirancang untuk membantu pekerjaan perkantoran, mahasiswa, siswa, guru,
+  freelancer, dan pengguna umum.
+</p>
 
-Tujuan utama project ini adalah membuat berbagai pekerjaan yang biasanya membutuhkan banyak aplikasi menjadi **lebih sederhana, cepat, dan mudah digunakan**.
+<p align="center">
+  Terinspirasi dari platform seperti <strong>iLovePDF</strong>, Office Tools menyediakan
+  berbagai tools untuk mengelola <strong>PDF, dokumen, gambar, spreadsheet, presentasi,
+  dan file lainnya</strong> dalam satu tempat.
+</p>
+
+<p align="center">
+  Tujuan utama project ini adalah membuat berbagai pekerjaan yang biasanya membutuhkan
+  banyak aplikasi menjadi <strong>lebih sederhana, cepat, dan mudah digunakan</strong>.
+</p>
 
 ---
 
